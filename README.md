@@ -118,7 +118,7 @@ ioc_checker/
 ├── utils.py             # Logging + unified ProviderResult/Verdict types
 ├── ui.py                # Rich-based presentation layer
 ├── requirements.txt
-├── .env.example
+├── .env.example         # change it's name to .env and fill it
 └── providers/
     ├── __init__.py       # BaseProvider interface (+ SUPPORTED_TYPES)
     ├── manager.py        # Provider registry / dynamic selection
