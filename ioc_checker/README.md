@@ -143,6 +143,25 @@ All requests and errors are logged to `ioc_checker.log` in the working
 directory.
 
 
+## ScreenShots While Working
 
- - MD5 Hash
+- Hash
 <img width="1180" height="870" alt="md5 hash" src="https://github.com/user-attachments/assets/071a7b3f-a317-4752-9ab3-4a40d2ff7e76" />
+
+
+- Hash
+<img width="1907" height="897" alt="sha256 hash" src="https://github.com/user-attachments/assets/ac8c031d-46df-4e01-acf1-486f6079b86d" />
+
+
+- Domain
+<img width="1905" height="812" alt="domain" src="https://github.com/user-attachments/assets/26d15830-5f36-4500-afc2-5a6775bd5cde" />
+
+- URL
+<img width="1907" height="892" alt="url" src="https://github.com/user-attachments/assets/d03a782d-5ab8-4802-9be0-7e44839e9079" />
+
+- ip
+<img width="1907" height="930" alt="ip" src="https://github.com/user-attachments/assets/33b459c6-cbb0-483b-a35e-c3f0b0a723d1" />
+
+- File Path
+<img width="1762" height="862" alt="file-path" src="https://github.com/user-attachments/assets/e45c7139-ac04-440d-b197-43739f9c56ed" />
+
