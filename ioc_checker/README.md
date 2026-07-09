@@ -141,3 +141,8 @@ remaining providers and the tool never crashes.
 
 All requests and errors are logged to `ioc_checker.log` in the working
 directory.
+
+
+
+ - MD5 Hash
+<img width="1180" height="870" alt="md5 hash" src="https://github.com/user-attachments/assets/071a7b3f-a317-4752-9ab3-4a40d2ff7e76" />
